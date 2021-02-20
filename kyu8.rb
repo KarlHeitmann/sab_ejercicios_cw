@@ -25,5 +25,5 @@ maps([2, 2, 2, 2, 2, 2])# , [4, 4, 4, 4, 4, 4]
 def calcularSiglo(x)
 end
 
-#calcularSiglo(1705), 18, 'Testing for year 1705'
+calcularSiglo(1705), 18# , 'Testing for year 1705'
 
