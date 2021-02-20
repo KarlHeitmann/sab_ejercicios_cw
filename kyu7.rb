@@ -1,6 +1,7 @@
 # Spoonerize es casi como el jeringonza.
 # haga el metodo sponerize, que toma un string de dos palabra, e intercambia la primera letra de
 # la primera por la primera letra de la segunda
+# https://www.codewars.com/kata/56b8903933dbe5831e000c76/train/ruby
 
 def spoonerize(words)
   #...aaaaand SPOONERIZE!
@@ -21,6 +22,7 @@ spoonerize("pop corn")# , "cop porn")
 # arr = [1, 2, 3, 4, 5]
 # t = 3
 # 1 + 2 = 3, así que elimina el numero 2 y devuelve [1, 3, 4, 5]
+# https://www.codewars.com/kata/57eaec5608fed543d6000021
 
 def trouble(arr, t)
     #..
